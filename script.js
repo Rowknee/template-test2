@@ -12,33 +12,33 @@ const nextBtn = document.getElementById('next');
 
 // music
 const songs = [
-    {
-        name: 'jacinto-1',
-        displayName: 'Electric Chill Machine',
-        artist: 'Jacinto Design',
+    // {
+    //     name: 'jacinto-1',
+    //     displayName: 'Electric Chill Machine',
+    //     artist: 'Jacinto Design',
 
-    },
+    // },
 
-    {
-        name: 'jacinto-2',
-        displayName: 'Seven Nation Army (remix)',
-        artist: 'Jacinto Design',
+    // {
+    //     name: 'jacinto-2',
+    //     displayName: 'Seven Nation Army (remix)',
+    //     artist: 'Jacinto Design',
 
-    },
+    // },
 
-    {
-        name: 'jacinto-3',
-        displayName: 'Goodnight, Disco Queen',
-        artist: 'Jacinto Design',
+    // {
+    //     name: 'jacinto-3',
+    //     displayName: 'Goodnight, Disco Queen',
+    //     artist: 'Jacinto Design',
 
-    },
+    // },
 
-    {
-        name: 'metric-1',
-        displayName: 'Front Row Remix',
-        artist: 'Metric/Jacinto Design',
+    // {
+    //     name: 'metric-1',
+    //     displayName: 'Front Row Remix',
+    //     artist: 'Metric/Jacinto Design',
 
-    },
+    // },
 
     {
         name: 'ronin-1',
@@ -65,6 +65,34 @@ const songs = [
         name: 'ronin-4',
         displayName: 'Next To You',
         artist: 'corbon',
+
+    },
+
+    {
+        name: 'jacinto-1',
+        displayName: 'Electric Chill Machine',
+        artist: 'Jacinto Design',
+
+    },
+
+    {
+        name: 'jacinto-2',
+        displayName: 'Seven Nation Army (remix)',
+        artist: 'Jacinto Design',
+
+    },
+
+    {
+        name: 'jacinto-3',
+        displayName: 'Goodnight, Disco Queen',
+        artist: 'Jacinto Design',
+
+    },
+
+    {
+        name: 'metric-1',
+        displayName: 'Front Row Remix',
+        artist: 'Metric/Jacinto Design',
 
     },
 ];
